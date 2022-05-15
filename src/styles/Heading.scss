@@ -1,0 +1,48 @@
+@use 'theme';
+
+.heading-one {
+    font-family: theme.$bellefair-font;
+    font-size: 150px;
+    color: theme.$white;
+}
+
+.heading-two {
+    font-family: theme.$bellefair-font;
+    font-size: 100px;
+    color: theme.$white;
+}
+
+.heading-three {
+    font-family: theme.$bellefair-font;
+    font-size: 56px;
+    color: theme.$white;
+}
+
+.heading-four {
+    font-family: theme.$bellefair-font;
+    font-size: 32px;
+    color: theme.$white;
+}
+
+.heading-five {
+    font-family: theme.$BarlowCondensed-font;
+    font-size: 28px;
+    letter-spacing: 4.75;
+}
+
+.sub-heading-one {
+    font-family: theme.$bellefair-font;
+    font-size: 28px;
+}
+
+.sub-heading-two {
+    font-family: theme.$BarlowCondensed-font;
+    font-size: 14px;
+    letter-spacing: 2.35;
+}
+
+.nav-text {
+    font-family: theme.$BarlowCondensed-font;
+    font-size: 16px;
+    letter-spacing: 2.7;
+}

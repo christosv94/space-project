@@ -1,6 +1,9 @@
+import '../styles/Home.scss'
+import HeadingOne from './headings/HeadingOne'
+
 const Home = () => {
     return (
-        <div>This is the first edit</div>
+        <HeadingOne>This is a test</HeadingOne>
     )
 }
 
